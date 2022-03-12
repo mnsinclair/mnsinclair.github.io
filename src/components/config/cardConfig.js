@@ -1,6 +1,6 @@
 const cardData = {
   email: "kiaora@matthewsinclair.tech",
-  linkedinUrl: "https://www.linkedin.com/feed/",
+  linkedinUrl: "https://www.linkedin.com/in/matthew-sinclair-436b82127/",
   githubUrl: "https://github.com/mnsinclair",
   name: "Matthew Sinclair",
   title: "AI Engineer",
