@@ -1,5 +1,5 @@
 const cardData = {
-  email: "kiaora@matthewsinclair.tech",
+  email: "matthewnsinclair@gmail.com",
   linkedinUrl: "https://www.linkedin.com/in/matthew-sinclair-436b82127/",
   githubUrl: "https://github.com/mnsinclair",
   name: "Matthew Sinclair",
